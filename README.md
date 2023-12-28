@@ -1,0 +1,10 @@
+Entity Framework ve C# N-Katmanlı Mimarisi kullanılarak geliştirilmiş bir masaüstü otomasyon aracıdır. MS SQL, backend veritabanı olarak kullanılmıştır. Uygulama, yemek listeleri, kategoriler ve görselleri yönetmek için bir yönetici paneli içerir; ayrıca kullanıcıların yeme alışkanlıkları üzerine istatistiksel bilgiler sunar. Arayüz, kullanıcı kaydı ve girişi gerektirir ve yemek listeleme, kalori hesaplama ve tarih bazlı kalori takibi gibi özellikleri barındırır.
+![1](https://github.com/catmakaslimehmett/Kalori-Hesaplama/assets/108172797/daa92cb6-6354-478c-9615-214727c03b69)
+![2](https://github.com/catmakaslimehmett/Kalori-Hesaplama/assets/108172797/8d9c6976-4f97-4705-967e-aa463adea38a)
+![3](https://github.com/catmakaslimehmett/Kalori-Hesaplama/assets/108172797/20417c84-82f8-4129-bf88-846dac4fe2fb)
+![5](https://github.com/catmakaslimehmett/Kalori-Hesaplama/assets/108172797/b96f87e1-efc1-42c3-b13a-67ddf200a785)
+![6](https://github.com/catmakaslimehmett/Kalori-Hesaplama/assets/108172797/c303b2fd-d00b-4049-97c9-93c718fbda00)
+![7](https://github.com/catmakaslimehmett/Kalori-Hesaplama/assets/108172797/a8adbdfd-c334-4586-ae55-07228f51c2b0)
+![4](https://github.com/catmakaslimehmett/Kalori-Hesaplama/assets/108172797/bdf9534e-395f-48bd-bd2f-51e6d14d909f)
+![8](https://github.com/catmakaslimehmett/Kalori-Hesaplama/assets/108172797/a1b660d4-eeb3-4667-8564-a0f79a222013)
+![9](https://github.com/catmakaslimehmett/Kalori-Hesaplama/assets/108172797/624c75f8-14c4-48a2-838e-bc4864620415)

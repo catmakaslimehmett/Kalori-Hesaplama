@@ -1,0 +1,378 @@
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantel\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.deps.json
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantel\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.runtimeconfig.json
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantel\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantel\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.pdb
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantel\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.AssemblyReference.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantel\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantel\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfoInputs.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantel\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfo.cs
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantel\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.CoreCompileInputs.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantel\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantel\KALORI.DATA\obj\Debug\net6.0\refint\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantel\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.pdb
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantel\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.genruntimeconfig.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantel\KALORI.DATA\obj\Debug\net6.0\ref\KALORI.DATA.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\Deneme2\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.deps.json
+C:\Users\qwe_c\OneDrive\Masaüstü\Deneme2\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.runtimeconfig.json
+C:\Users\qwe_c\OneDrive\Masaüstü\Deneme2\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\Deneme2\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.pdb
+C:\Users\qwe_c\OneDrive\Masaüstü\Deneme2\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.AssemblyReference.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\Deneme2\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qwe_c\OneDrive\Masaüstü\Deneme2\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfoInputs.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\Deneme2\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfo.cs
+C:\Users\qwe_c\OneDrive\Masaüstü\Deneme2\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.CoreCompileInputs.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\Deneme2\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\Deneme2\KALORI.DATA\obj\Debug\net6.0\refint\KALORI.DATA.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\Deneme2\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.pdb
+C:\Users\qwe_c\OneDrive\Masaüstü\Deneme2\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.genruntimeconfig.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\Deneme2\KALORI.DATA\obj\Debug\net6.0\ref\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme3\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.deps.json
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme3\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.runtimeconfig.json
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme3\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme3\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.pdb
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme3\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.AssemblyReference.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme3\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme3\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfoInputs.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme3\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfo.cs
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme3\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.CoreCompileInputs.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme3\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme3\KALORI.DATA\obj\Debug\net6.0\refint\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme3\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.pdb
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme3\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.genruntimeconfig.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme3\KALORI.DATA\obj\Debug\net6.0\ref\KALORI.DATA.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\ödev ömer alp kazkayası\ObjectOryantel\KaloriHesaplamaObjectOryantelDeneme4\KaloriHesaplamaObjectOryantelDeneme4\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.deps.json
+C:\Users\qwe_c\OneDrive\Masaüstü\ödev ömer alp kazkayası\ObjectOryantel\KaloriHesaplamaObjectOryantelDeneme4\KaloriHesaplamaObjectOryantelDeneme4\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.runtimeconfig.json
+C:\Users\qwe_c\OneDrive\Masaüstü\ödev ömer alp kazkayası\ObjectOryantel\KaloriHesaplamaObjectOryantelDeneme4\KaloriHesaplamaObjectOryantelDeneme4\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\ödev ömer alp kazkayası\ObjectOryantel\KaloriHesaplamaObjectOryantelDeneme4\KaloriHesaplamaObjectOryantelDeneme4\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.pdb
+C:\Users\qwe_c\OneDrive\Masaüstü\ödev ömer alp kazkayası\ObjectOryantel\KaloriHesaplamaObjectOryantelDeneme4\KaloriHesaplamaObjectOryantelDeneme4\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.AssemblyReference.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\ödev ömer alp kazkayası\ObjectOryantel\KaloriHesaplamaObjectOryantelDeneme4\KaloriHesaplamaObjectOryantelDeneme4\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qwe_c\OneDrive\Masaüstü\ödev ömer alp kazkayası\ObjectOryantel\KaloriHesaplamaObjectOryantelDeneme4\KaloriHesaplamaObjectOryantelDeneme4\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfoInputs.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\ödev ömer alp kazkayası\ObjectOryantel\KaloriHesaplamaObjectOryantelDeneme4\KaloriHesaplamaObjectOryantelDeneme4\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfo.cs
+C:\Users\qwe_c\OneDrive\Masaüstü\ödev ömer alp kazkayası\ObjectOryantel\KaloriHesaplamaObjectOryantelDeneme4\KaloriHesaplamaObjectOryantelDeneme4\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.CoreCompileInputs.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\ödev ömer alp kazkayası\ObjectOryantel\KaloriHesaplamaObjectOryantelDeneme4\KaloriHesaplamaObjectOryantelDeneme4\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\ödev ömer alp kazkayası\ObjectOryantel\KaloriHesaplamaObjectOryantelDeneme4\KaloriHesaplamaObjectOryantelDeneme4\KALORI.DATA\obj\Debug\net6.0\refint\KALORI.DATA.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\ödev ömer alp kazkayası\ObjectOryantel\KaloriHesaplamaObjectOryantelDeneme4\KaloriHesaplamaObjectOryantelDeneme4\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.pdb
+C:\Users\qwe_c\OneDrive\Masaüstü\ödev ömer alp kazkayası\ObjectOryantel\KaloriHesaplamaObjectOryantelDeneme4\KaloriHesaplamaObjectOryantelDeneme4\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.genruntimeconfig.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\ödev ömer alp kazkayası\ObjectOryantel\KaloriHesaplamaObjectOryantelDeneme4\KaloriHesaplamaObjectOryantelDeneme4\KALORI.DATA\obj\Debug\net6.0\ref\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme5\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.deps.json
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme5\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.runtimeconfig.json
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme5\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme5\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.pdb
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme5\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.AssemblyReference.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme5\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme5\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfoInputs.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme5\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfo.cs
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme5\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.CoreCompileInputs.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme5\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme5\KALORI.DATA\obj\Debug\net6.0\refint\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme5\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.pdb
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme5\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.genruntimeconfig.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme5\KALORI.DATA\obj\Debug\net6.0\ref\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme6\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.deps.json
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme6\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.runtimeconfig.json
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme6\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme6\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.pdb
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme6\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.AssemblyReference.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme6\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme6\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfoInputs.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme6\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfo.cs
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme6\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.CoreCompileInputs.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme6\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme6\KALORI.DATA\obj\Debug\net6.0\refint\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme6\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.pdb
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme6\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.genruntimeconfig.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme6\KALORI.DATA\obj\Debug\net6.0\ref\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme7\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.deps.json
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme7\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.runtimeconfig.json
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme7\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme7\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.pdb
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme7\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.AssemblyReference.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme7\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme7\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfoInputs.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme7\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfo.cs
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme7\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.CoreCompileInputs.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme7\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme7\KALORI.DATA\obj\Debug\net6.0\refint\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme7\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.pdb
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme7\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.genruntimeconfig.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme7\KALORI.DATA\obj\Debug\net6.0\ref\KALORI.DATA.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\KaloriHesaplamaObjectOryantelDeneme7\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.deps.json
+C:\Users\qwe_c\OneDrive\Masaüstü\KaloriHesaplamaObjectOryantelDeneme7\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.runtimeconfig.json
+C:\Users\qwe_c\OneDrive\Masaüstü\KaloriHesaplamaObjectOryantelDeneme7\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\KaloriHesaplamaObjectOryantelDeneme7\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.pdb
+C:\Users\qwe_c\OneDrive\Masaüstü\KaloriHesaplamaObjectOryantelDeneme7\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.AssemblyReference.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\KaloriHesaplamaObjectOryantelDeneme7\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qwe_c\OneDrive\Masaüstü\KaloriHesaplamaObjectOryantelDeneme7\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfoInputs.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\KaloriHesaplamaObjectOryantelDeneme7\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfo.cs
+C:\Users\qwe_c\OneDrive\Masaüstü\KaloriHesaplamaObjectOryantelDeneme7\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.CoreCompileInputs.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\KaloriHesaplamaObjectOryantelDeneme7\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\KaloriHesaplamaObjectOryantelDeneme7\KALORI.DATA\obj\Debug\net6.0\refint\KALORI.DATA.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\KaloriHesaplamaObjectOryantelDeneme7\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.pdb
+C:\Users\qwe_c\OneDrive\Masaüstü\KaloriHesaplamaObjectOryantelDeneme7\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.genruntimeconfig.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\KaloriHesaplamaObjectOryantelDeneme7\KALORI.DATA\obj\Debug\net6.0\ref\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme8\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.deps.json
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme8\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.runtimeconfig.json
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme8\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme8\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.pdb
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme8\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.AssemblyReference.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme8\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme8\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfoInputs.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme8\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfo.cs
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme8\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.CoreCompileInputs.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme8\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme8\KALORI.DATA\obj\Debug\net6.0\refint\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme8\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.pdb
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme8\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.genruntimeconfig.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme8\KALORI.DATA\obj\Debug\net6.0\ref\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme9\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.deps.json
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme9\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.runtimeconfig.json
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme9\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme9\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.pdb
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme9\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.AssemblyReference.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme9\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme9\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfoInputs.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme9\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfo.cs
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme9\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.CoreCompileInputs.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme9\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme9\KALORI.DATA\obj\Debug\net6.0\refint\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme9\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.pdb
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme9\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.genruntimeconfig.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme9\KALORI.DATA\obj\Debug\net6.0\ref\KALORI.DATA.dll
+D:\Coding101\EntityFramework\KaloriHesaplamaObjectOryantelDeneme10\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.deps.json
+D:\Coding101\EntityFramework\KaloriHesaplamaObjectOryantelDeneme10\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.runtimeconfig.json
+D:\Coding101\EntityFramework\KaloriHesaplamaObjectOryantelDeneme10\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.dll
+D:\Coding101\EntityFramework\KaloriHesaplamaObjectOryantelDeneme10\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.pdb
+D:\Coding101\EntityFramework\KaloriHesaplamaObjectOryantelDeneme10\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.AssemblyReference.cache
+D:\Coding101\EntityFramework\KaloriHesaplamaObjectOryantelDeneme10\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding101\EntityFramework\KaloriHesaplamaObjectOryantelDeneme10\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfoInputs.cache
+D:\Coding101\EntityFramework\KaloriHesaplamaObjectOryantelDeneme10\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfo.cs
+D:\Coding101\EntityFramework\KaloriHesaplamaObjectOryantelDeneme10\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.CoreCompileInputs.cache
+D:\Coding101\EntityFramework\KaloriHesaplamaObjectOryantelDeneme10\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.dll
+D:\Coding101\EntityFramework\KaloriHesaplamaObjectOryantelDeneme10\KALORI.DATA\obj\Debug\net6.0\refint\KALORI.DATA.dll
+D:\Coding101\EntityFramework\KaloriHesaplamaObjectOryantelDeneme10\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.pdb
+D:\Coding101\EntityFramework\KaloriHesaplamaObjectOryantelDeneme10\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.genruntimeconfig.cache
+D:\Coding101\EntityFramework\KaloriHesaplamaObjectOryantelDeneme10\KALORI.DATA\obj\Debug\net6.0\ref\KALORI.DATA.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\Entity Ödev\KaloriHesaplamaObjectOryantelDeneme10\KaloriHesaplamaObjectOryantelDeneme10\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.deps.json
+C:\Users\qwe_c\OneDrive\Masaüstü\Entity Ödev\KaloriHesaplamaObjectOryantelDeneme10\KaloriHesaplamaObjectOryantelDeneme10\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.runtimeconfig.json
+C:\Users\qwe_c\OneDrive\Masaüstü\Entity Ödev\KaloriHesaplamaObjectOryantelDeneme10\KaloriHesaplamaObjectOryantelDeneme10\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\Entity Ödev\KaloriHesaplamaObjectOryantelDeneme10\KaloriHesaplamaObjectOryantelDeneme10\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.pdb
+C:\Users\qwe_c\OneDrive\Masaüstü\Entity Ödev\KaloriHesaplamaObjectOryantelDeneme10\KaloriHesaplamaObjectOryantelDeneme10\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.AssemblyReference.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\Entity Ödev\KaloriHesaplamaObjectOryantelDeneme10\KaloriHesaplamaObjectOryantelDeneme10\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qwe_c\OneDrive\Masaüstü\Entity Ödev\KaloriHesaplamaObjectOryantelDeneme10\KaloriHesaplamaObjectOryantelDeneme10\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfoInputs.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\Entity Ödev\KaloriHesaplamaObjectOryantelDeneme10\KaloriHesaplamaObjectOryantelDeneme10\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfo.cs
+C:\Users\qwe_c\OneDrive\Masaüstü\Entity Ödev\KaloriHesaplamaObjectOryantelDeneme10\KaloriHesaplamaObjectOryantelDeneme10\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.CoreCompileInputs.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\Entity Ödev\KaloriHesaplamaObjectOryantelDeneme10\KaloriHesaplamaObjectOryantelDeneme10\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\Entity Ödev\KaloriHesaplamaObjectOryantelDeneme10\KaloriHesaplamaObjectOryantelDeneme10\KALORI.DATA\obj\Debug\net6.0\refint\KALORI.DATA.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\Entity Ödev\KaloriHesaplamaObjectOryantelDeneme10\KaloriHesaplamaObjectOryantelDeneme10\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.pdb
+C:\Users\qwe_c\OneDrive\Masaüstü\Entity Ödev\KaloriHesaplamaObjectOryantelDeneme10\KaloriHesaplamaObjectOryantelDeneme10\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.genruntimeconfig.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\Entity Ödev\KaloriHesaplamaObjectOryantelDeneme10\KaloriHesaplamaObjectOryantelDeneme10\KALORI.DATA\obj\Debug\net6.0\ref\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme11\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.deps.json
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme11\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.runtimeconfig.json
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme11\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme11\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.pdb
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme11\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.AssemblyReference.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme11\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme11\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfoInputs.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme11\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfo.cs
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme11\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.CoreCompileInputs.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme11\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme11\KALORI.DATA\obj\Debug\net6.0\refint\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme11\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.pdb
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme11\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.genruntimeconfig.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme11\KALORI.DATA\obj\Debug\net6.0\ref\KALORI.DATA.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme11\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.deps.json
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme11\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.runtimeconfig.json
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme11\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme11\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.pdb
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme11\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.AssemblyReference.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme11\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme11\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfoInputs.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme11\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfo.cs
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme11\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme11\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme11\KALORI.DATA\obj\Debug\net6.0\refint\KALORI.DATA.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme11\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.pdb
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme11\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.genruntimeconfig.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme11\KALORI.DATA\obj\Debug\net6.0\ref\KALORI.DATA.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\Entity Ödev\KaloriHesaplamaObjectOryantelDeneme12\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.deps.json
+C:\Users\qwe_c\OneDrive\Masaüstü\Entity Ödev\KaloriHesaplamaObjectOryantelDeneme12\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.runtimeconfig.json
+C:\Users\qwe_c\OneDrive\Masaüstü\Entity Ödev\KaloriHesaplamaObjectOryantelDeneme12\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\Entity Ödev\KaloriHesaplamaObjectOryantelDeneme12\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.pdb
+C:\Users\qwe_c\OneDrive\Masaüstü\Entity Ödev\KaloriHesaplamaObjectOryantelDeneme12\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.AssemblyReference.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\Entity Ödev\KaloriHesaplamaObjectOryantelDeneme12\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qwe_c\OneDrive\Masaüstü\Entity Ödev\KaloriHesaplamaObjectOryantelDeneme12\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfoInputs.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\Entity Ödev\KaloriHesaplamaObjectOryantelDeneme12\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfo.cs
+C:\Users\qwe_c\OneDrive\Masaüstü\Entity Ödev\KaloriHesaplamaObjectOryantelDeneme12\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.CoreCompileInputs.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\Entity Ödev\KaloriHesaplamaObjectOryantelDeneme12\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\Entity Ödev\KaloriHesaplamaObjectOryantelDeneme12\KALORI.DATA\obj\Debug\net6.0\refint\KALORI.DATA.dll
+C:\Users\qwe_c\OneDrive\Masaüstü\Entity Ödev\KaloriHesaplamaObjectOryantelDeneme12\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.pdb
+C:\Users\qwe_c\OneDrive\Masaüstü\Entity Ödev\KaloriHesaplamaObjectOryantelDeneme12\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.genruntimeconfig.cache
+C:\Users\qwe_c\OneDrive\Masaüstü\Entity Ödev\KaloriHesaplamaObjectOryantelDeneme12\KALORI.DATA\obj\Debug\net6.0\ref\KALORI.DATA.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme13\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.deps.json
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme13\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.runtimeconfig.json
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme13\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme13\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.pdb
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme13\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.AssemblyReference.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme13\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme13\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfoInputs.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme13\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfo.cs
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme13\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme13\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme13\KALORI.DATA\obj\Debug\net6.0\refint\KALORI.DATA.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme13\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.pdb
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme13\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.genruntimeconfig.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme13\KALORI.DATA\obj\Debug\net6.0\ref\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme14\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.deps.json
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme14\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.runtimeconfig.json
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme14\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme14\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.pdb
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme14\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.AssemblyReference.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme14\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme14\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfoInputs.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme14\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfo.cs
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme14\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.CoreCompileInputs.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme14\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme14\KALORI.DATA\obj\Debug\net6.0\refint\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme14\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.pdb
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme14\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.genruntimeconfig.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme14\KALORI.DATA\obj\Debug\net6.0\ref\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme15\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.deps.json
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme15\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.runtimeconfig.json
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme15\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme15\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.pdb
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme15\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.AssemblyReference.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme15\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme15\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfoInputs.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme15\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfo.cs
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme15\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.CoreCompileInputs.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme15\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme15\KALORI.DATA\obj\Debug\net6.0\refint\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme15\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.pdb
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme15\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.genruntimeconfig.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme15\KALORI.DATA\obj\Debug\net6.0\ref\KALORI.DATA.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme15\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.deps.json
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme15\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.runtimeconfig.json
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme15\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme15\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.pdb
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme15\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.AssemblyReference.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme15\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme15\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfoInputs.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme15\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfo.cs
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme15\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme15\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme15\KALORI.DATA\obj\Debug\net6.0\refint\KALORI.DATA.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme15\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.pdb
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme15\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.genruntimeconfig.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme15\KALORI.DATA\obj\Debug\net6.0\ref\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme16\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.deps.json
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme16\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.runtimeconfig.json
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme16\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme16\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.pdb
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme16\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.AssemblyReference.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme16\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme16\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfoInputs.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme16\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfo.cs
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme16\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.CoreCompileInputs.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme16\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme16\KALORI.DATA\obj\Debug\net6.0\refint\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme16\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.pdb
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme16\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.genruntimeconfig.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme16\KALORI.DATA\obj\Debug\net6.0\ref\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme17\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.deps.json
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme17\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.runtimeconfig.json
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme17\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme17\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.pdb
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme17\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.AssemblyReference.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme17\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme17\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfoInputs.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme17\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfo.cs
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme17\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.CoreCompileInputs.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme17\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme17\KALORI.DATA\obj\Debug\net6.0\refint\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme17\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.pdb
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme17\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.genruntimeconfig.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme17\KALORI.DATA\obj\Debug\net6.0\ref\KALORI.DATA.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme17\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.deps.json
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme17\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.runtimeconfig.json
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme17\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme17\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.pdb
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme17\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.AssemblyReference.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme17\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme17\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfoInputs.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme17\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfo.cs
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme17\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme17\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme17\KALORI.DATA\obj\Debug\net6.0\refint\KALORI.DATA.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme17\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.pdb
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme17\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.genruntimeconfig.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme17\KALORI.DATA\obj\Debug\net6.0\ref\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme19\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.deps.json
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme19\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.runtimeconfig.json
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme19\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme19\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.pdb
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme19\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.AssemblyReference.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme19\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme19\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfoInputs.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme19\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfo.cs
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme19\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.CoreCompileInputs.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme19\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme19\KALORI.DATA\obj\Debug\net6.0\refint\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme19\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.pdb
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme19\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.genruntimeconfig.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelDeneme19\KALORI.DATA\obj\Debug\net6.0\ref\KALORI.DATA.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme19\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.deps.json
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme19\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.runtimeconfig.json
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme19\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme19\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.pdb
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme19\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.AssemblyReference.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme19\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme19\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfoInputs.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme19\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfo.cs
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme19\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme19\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme19\KALORI.DATA\obj\Debug\net6.0\refint\KALORI.DATA.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme19\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.pdb
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme19\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.genruntimeconfig.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme19\KALORI.DATA\obj\Debug\net6.0\ref\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelYeniSurum\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.deps.json
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelYeniSurum\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.runtimeconfig.json
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelYeniSurum\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelYeniSurum\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.pdb
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelYeniSurum\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.AssemblyReference.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelYeniSurum\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelYeniSurum\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfoInputs.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelYeniSurum\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfo.cs
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelYeniSurum\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.CoreCompileInputs.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelYeniSurum\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelYeniSurum\KALORI.DATA\obj\Debug\net6.0\refint\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelYeniSurum\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.pdb
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelYeniSurum\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.genruntimeconfig.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelYeniSurum\KALORI.DATA\obj\Debug\net6.0\ref\KALORI.DATA.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelYeniSurum\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.deps.json
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelYeniSurum\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.runtimeconfig.json
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelYeniSurum\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelYeniSurum\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.pdb
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelYeniSurum\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.AssemblyReference.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelYeniSurum\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelYeniSurum\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfoInputs.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelYeniSurum\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfo.cs
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelYeniSurum\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelYeniSurum\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelYeniSurum\KALORI.DATA\obj\Debug\net6.0\refint\KALORI.DATA.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelYeniSurum\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.pdb
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelYeniSurum\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.genruntimeconfig.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelYeniSurum\KALORI.DATA\obj\Debug\net6.0\ref\KALORI.DATA.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Bilge Adam Boost\KaloriHesaplamaObjectOryantelYeniSurumds\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.deps.json
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Bilge Adam Boost\KaloriHesaplamaObjectOryantelYeniSurumds\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.runtimeconfig.json
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Bilge Adam Boost\KaloriHesaplamaObjectOryantelYeniSurumds\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Bilge Adam Boost\KaloriHesaplamaObjectOryantelYeniSurumds\KALORI.DATA\bin\Debug\net6.0\KALORI.DATA.pdb
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Bilge Adam Boost\KaloriHesaplamaObjectOryantelYeniSurumds\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.AssemblyReference.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Bilge Adam Boost\KaloriHesaplamaObjectOryantelYeniSurumds\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Bilge Adam Boost\KaloriHesaplamaObjectOryantelYeniSurumds\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfoInputs.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Bilge Adam Boost\KaloriHesaplamaObjectOryantelYeniSurumds\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.AssemblyInfo.cs
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Bilge Adam Boost\KaloriHesaplamaObjectOryantelYeniSurumds\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Bilge Adam Boost\KaloriHesaplamaObjectOryantelYeniSurumds\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Bilge Adam Boost\KaloriHesaplamaObjectOryantelYeniSurumds\KALORI.DATA\obj\Debug\net6.0\refint\KALORI.DATA.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Bilge Adam Boost\KaloriHesaplamaObjectOryantelYeniSurumds\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.pdb
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Bilge Adam Boost\KaloriHesaplamaObjectOryantelYeniSurumds\KALORI.DATA\obj\Debug\net6.0\KALORI.DATA.genruntimeconfig.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Bilge Adam Boost\KaloriHesaplamaObjectOryantelYeniSurumds\KALORI.DATA\obj\Debug\net6.0\ref\KALORI.DATA.dll

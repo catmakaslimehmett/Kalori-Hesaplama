@@ -1,0 +1,16 @@
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantel\KaloriHesaplama\bin\Debug\net6.0-windows\KaloriHesaplama_UI.exe
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantel\KaloriHesaplama\bin\Debug\net6.0-windows\KaloriHesaplama_UI.deps.json
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantel\KaloriHesaplama\bin\Debug\net6.0-windows\KaloriHesaplama_UI.runtimeconfig.json
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantel\KaloriHesaplama\bin\Debug\net6.0-windows\KaloriHesaplama_UI.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantel\KaloriHesaplama\bin\Debug\net6.0-windows\KaloriHesaplama_UI.pdb
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantel\KaloriHesaplama\obj\Debug\net6.0-windows\KaloriHesaplama.Form1.resources
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantel\KaloriHesaplama\obj\Debug\net6.0-windows\KaloriHesaplama_UI.csproj.GenerateResource.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantel\KaloriHesaplama\obj\Debug\net6.0-windows\KaloriHesaplama_UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantel\KaloriHesaplama\obj\Debug\net6.0-windows\KaloriHesaplama_UI.AssemblyInfoInputs.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantel\KaloriHesaplama\obj\Debug\net6.0-windows\KaloriHesaplama_UI.AssemblyInfo.cs
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantel\KaloriHesaplama\obj\Debug\net6.0-windows\KaloriHesaplama_UI.csproj.CoreCompileInputs.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantel\KaloriHesaplama\obj\Debug\net6.0-windows\KaloriHesaplama_UI.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantel\KaloriHesaplama\obj\Debug\net6.0-windows\refint\KaloriHesaplama_UI.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantel\KaloriHesaplama\obj\Debug\net6.0-windows\KaloriHesaplama_UI.pdb
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantel\KaloriHesaplama\obj\Debug\net6.0-windows\KaloriHesaplama_UI.genruntimeconfig.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantel\KaloriHesaplama\obj\Debug\net6.0-windows\ref\KaloriHesaplama_UI.dll

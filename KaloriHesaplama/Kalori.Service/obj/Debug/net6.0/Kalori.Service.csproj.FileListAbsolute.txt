@@ -1,0 +1,68 @@
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme19\Kalori.Service\bin\Debug\net6.0\Kalori.Service.deps.json
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme19\Kalori.Service\bin\Debug\net6.0\Kalori.Service.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme19\Kalori.Service\bin\Debug\net6.0\Kalori.Service.pdb
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme19\Kalori.Service\bin\Debug\net6.0\KALORI.DATA.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme19\Kalori.Service\bin\Debug\net6.0\Kalori_DAL.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme19\Kalori.Service\bin\Debug\net6.0\KALORI.DATA.pdb
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme19\Kalori.Service\bin\Debug\net6.0\Kalori_DAL.pdb
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme19\Kalori.Service\obj\Debug\net6.0\Kalori.Service.csproj.AssemblyReference.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme19\Kalori.Service\obj\Debug\net6.0\Kalori.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme19\Kalori.Service\obj\Debug\net6.0\Kalori.Service.AssemblyInfoInputs.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme19\Kalori.Service\obj\Debug\net6.0\Kalori.Service.AssemblyInfo.cs
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme19\Kalori.Service\obj\Debug\net6.0\Kalori.Service.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme19\Kalori.Service\obj\Debug\net6.0\Kalori.Service.csproj.CopyComplete
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme19\Kalori.Service\obj\Debug\net6.0\Kalori.Service.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme19\Kalori.Service\obj\Debug\net6.0\refint\Kalori.Service.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme19\Kalori.Service\obj\Debug\net6.0\Kalori.Service.pdb
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelDeneme19\Kalori.Service\obj\Debug\net6.0\ref\Kalori.Service.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelYeniSurum\Kalori.Service\bin\Debug\net6.0\Kalori.Service.deps.json
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelYeniSurum\Kalori.Service\bin\Debug\net6.0\Kalori.Service.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelYeniSurum\Kalori.Service\bin\Debug\net6.0\Kalori.Service.pdb
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelYeniSurum\Kalori.Service\bin\Debug\net6.0\KALORI.DATA.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelYeniSurum\Kalori.Service\bin\Debug\net6.0\Kalori_DAL.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelYeniSurum\Kalori.Service\bin\Debug\net6.0\KALORI.DATA.pdb
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelYeniSurum\Kalori.Service\bin\Debug\net6.0\Kalori_DAL.pdb
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelYeniSurum\Kalori.Service\obj\Debug\net6.0\Kalori.Service.csproj.AssemblyReference.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelYeniSurum\Kalori.Service\obj\Debug\net6.0\Kalori.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelYeniSurum\Kalori.Service\obj\Debug\net6.0\Kalori.Service.AssemblyInfoInputs.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelYeniSurum\Kalori.Service\obj\Debug\net6.0\Kalori.Service.AssemblyInfo.cs
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelYeniSurum\Kalori.Service\obj\Debug\net6.0\Kalori.Service.csproj.CoreCompileInputs.cache
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelYeniSurum\Kalori.Service\obj\Debug\net6.0\Kalori.Service.csproj.CopyComplete
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelYeniSurum\Kalori.Service\obj\Debug\net6.0\Kalori.Service.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelYeniSurum\Kalori.Service\obj\Debug\net6.0\refint\Kalori.Service.dll
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelYeniSurum\Kalori.Service\obj\Debug\net6.0\Kalori.Service.pdb
+D:\Coding101\EntityFramework\Proje\KaloriHesaplamaObjectOryantelYeniSurum\Kalori.Service\obj\Debug\net6.0\ref\Kalori.Service.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelYeniSurum\Kalori.Service\bin\Debug\net6.0\Kalori.Service.deps.json
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelYeniSurum\Kalori.Service\bin\Debug\net6.0\Kalori.Service.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelYeniSurum\Kalori.Service\bin\Debug\net6.0\Kalori.Service.pdb
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelYeniSurum\Kalori.Service\bin\Debug\net6.0\KALORI.DATA.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelYeniSurum\Kalori.Service\bin\Debug\net6.0\Kalori_DAL.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelYeniSurum\Kalori.Service\bin\Debug\net6.0\KALORI.DATA.pdb
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelYeniSurum\Kalori.Service\bin\Debug\net6.0\Kalori_DAL.pdb
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelYeniSurum\Kalori.Service\obj\Debug\net6.0\Kalori.Service.csproj.AssemblyReference.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelYeniSurum\Kalori.Service\obj\Debug\net6.0\Kalori.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelYeniSurum\Kalori.Service\obj\Debug\net6.0\Kalori.Service.AssemblyInfoInputs.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelYeniSurum\Kalori.Service\obj\Debug\net6.0\Kalori.Service.AssemblyInfo.cs
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelYeniSurum\Kalori.Service\obj\Debug\net6.0\Kalori.Service.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelYeniSurum\Kalori.Service\obj\Debug\net6.0\Kalori.Service.csproj.CopyComplete
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelYeniSurum\Kalori.Service\obj\Debug\net6.0\Kalori.Service.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelYeniSurum\Kalori.Service\obj\Debug\net6.0\refint\Kalori.Service.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelYeniSurum\Kalori.Service\obj\Debug\net6.0\Kalori.Service.pdb
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\KaloriHesaplamaObjectOryantelYeniSurum\Kalori.Service\obj\Debug\net6.0\ref\Kalori.Service.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Bilge Adam Boost\KaloriHesaplamaObjectOryantelYeniSurumds\Kalori.Service\bin\Debug\net6.0\Kalori.Service.deps.json
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Bilge Adam Boost\KaloriHesaplamaObjectOryantelYeniSurumds\Kalori.Service\bin\Debug\net6.0\Kalori.Service.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Bilge Adam Boost\KaloriHesaplamaObjectOryantelYeniSurumds\Kalori.Service\bin\Debug\net6.0\Kalori.Service.pdb
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Bilge Adam Boost\KaloriHesaplamaObjectOryantelYeniSurumds\Kalori.Service\bin\Debug\net6.0\KALORI.DATA.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Bilge Adam Boost\KaloriHesaplamaObjectOryantelYeniSurumds\Kalori.Service\bin\Debug\net6.0\Kalori_DAL.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Bilge Adam Boost\KaloriHesaplamaObjectOryantelYeniSurumds\Kalori.Service\bin\Debug\net6.0\KALORI.DATA.pdb
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Bilge Adam Boost\KaloriHesaplamaObjectOryantelYeniSurumds\Kalori.Service\bin\Debug\net6.0\Kalori_DAL.pdb
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Bilge Adam Boost\KaloriHesaplamaObjectOryantelYeniSurumds\Kalori.Service\obj\Debug\net6.0\Kalori.Service.csproj.AssemblyReference.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Bilge Adam Boost\KaloriHesaplamaObjectOryantelYeniSurumds\Kalori.Service\obj\Debug\net6.0\Kalori.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Bilge Adam Boost\KaloriHesaplamaObjectOryantelYeniSurumds\Kalori.Service\obj\Debug\net6.0\Kalori.Service.AssemblyInfoInputs.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Bilge Adam Boost\KaloriHesaplamaObjectOryantelYeniSurumds\Kalori.Service\obj\Debug\net6.0\Kalori.Service.AssemblyInfo.cs
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Bilge Adam Boost\KaloriHesaplamaObjectOryantelYeniSurumds\Kalori.Service\obj\Debug\net6.0\Kalori.Service.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Bilge Adam Boost\KaloriHesaplamaObjectOryantelYeniSurumds\Kalori.Service\obj\Debug\net6.0\Kalori.Service.csproj.CopyComplete
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Bilge Adam Boost\KaloriHesaplamaObjectOryantelYeniSurumds\Kalori.Service\obj\Debug\net6.0\Kalori.Service.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Bilge Adam Boost\KaloriHesaplamaObjectOryantelYeniSurumds\Kalori.Service\obj\Debug\net6.0\refint\Kalori.Service.dll
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Bilge Adam Boost\KaloriHesaplamaObjectOryantelYeniSurumds\Kalori.Service\obj\Debug\net6.0\Kalori.Service.pdb
+C:\Users\Mehmet ÇATMAKAŞLI\Desktop\Bilge Adam Boost\KaloriHesaplamaObjectOryantelYeniSurumds\Kalori.Service\obj\Debug\net6.0\ref\Kalori.Service.dll
